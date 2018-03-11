@@ -1,0 +1,13 @@
+gs-icon-tiny
+gs-icon-small
+gs-icon
+gs-icon-hi-res
+gs-logo
+gs-logo-hi-res
+gs-plus-logo
+gs-plus-logo-hi-res
+gs-plus-icon
+gs-plus-icon-hi-res
+gs-plus-icon-small
+gs-plus-icon-tiny
+148.88
